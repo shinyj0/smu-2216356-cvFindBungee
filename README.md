@@ -1,6 +1,6 @@
 # 2025-1 인공지능산업체 특강 MS AZURE CV 실습 수업 내용입니다.
 
-# GitHub Codespaces ♥️ Jupyter Notebooks
+### GitHub Codespaces ♥️ Jupyter Notebooks
 
 
 Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
